@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.malsolo.design.patterns</groupId>
-	<artifactId>design-patterns-creational</artifactId>
+	<artifactId>java-design-patterns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
