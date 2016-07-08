@@ -1,5 +1,12 @@
 package com.malsolo.design.patterns.structural.decorator;
 
+/**
+ * @see http://www.oodesign.com/decorator-pattern.html
+ * @see http://www.avajava.com/tutorials/lessons/decorator-pattern.html
+ * @see https://en.wikipedia.org/wiki/Decorator_pattern#Java
+ * @author jbeneito
+ *
+ */
 public class DecoratorDemo {
 
     public static void main(String[] args) {
