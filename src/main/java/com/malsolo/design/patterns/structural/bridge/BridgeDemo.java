@@ -1,6 +1,7 @@
 package com.malsolo.design.patterns.structural.bridge;
 
 /**
+ * @see http://www.oodesign.com/bridge-pattern.html
  * @see http://www.avajava.com/tutorials/lessons/bridge-pattern.html
  * @see http://www.programcreek.com/2011/10/java-design-pattern-bridge/
  * @author Javier
