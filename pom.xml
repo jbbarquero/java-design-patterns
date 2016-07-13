@@ -11,6 +11,7 @@
 		<java.version>1.8</java.version>
 		<lombok.version>1.16.6</lombok.version>
 		<guava.version>19.0</guava.version>
+		<supercsv.version>2.4.0</supercsv.version>
 	</properties>
 
 	<dependencies>
@@ -25,6 +26,12 @@
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
 			<version>${guava.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.sf.supercsv</groupId>
+			<artifactId>super-csv</artifactId>
+			<version>${supercsv.version}</version>
 		</dependency>
 	</dependencies>
 
